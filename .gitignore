@@ -22,3 +22,8 @@ _testmain.go
 *.exe
 *.test
 *.prof
+brute-dns
+entrypoint/brute-dns
+go-brute-dns
+entrypoint/go-brute-dns
+dist
